@@ -2,9 +2,11 @@
   <library name="JUnit">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../JUnit" />
+      <root url="file://$PROJECT_DIR$/../JUnit" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../JUnit" recursive="false" />
     <jarDirectory url="file://$PROJECT_DIR$/../JUnit" recursive="false" />
   </library>
 </component>
